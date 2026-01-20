@@ -1,0 +1,47 @@
+{
+  "S33493": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Daniel Herbst, Westenstraße 35, 85229 Markt Indersdorf, Deutschland",
+    "receiver": "Franz Obenauf, Häusla 8, 8341 Paldau, Österreich",
+    "price": "11.000,00 €",
+    "description": "Hersteller: Kuhn<br>Typ: GA 5031 Schwader<br>S.N: KSAA1014V30C00215<br>Baujahr: 2021<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Franz Obenauf<br>Häusla 8<br>8341 Paldau<br>Österreich<br>Telefon: +43 6802428273",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "20.01.2026",
+    "deliveryDate": "26.01.2026",
+    "pickup": {
+      "street": "Hegenheimer Str. 15",
+      "postal_code": "79576",
+      "city": "Weil am Rhein",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
